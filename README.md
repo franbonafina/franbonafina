@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=franbonafina&show_icons=true&theme=radical&&include_all_commits=true&count_private=true&&show_owner=true" alt="franB" /></p>
 
-<h3><strong> :white_check_mark: Always respecting licence. </strong></h3>
+<h3><strong> :white_check_mark: Always respecting license. </strong></h3>
 <h3><strong> :white_check_mark: Feel free to inspect my feed :+1:.</strong></h3>
 <h3><strong> :white_check_mark: Most of the code it's extending open-source third-party software.</strong></h3>
 
