@@ -12,13 +12,11 @@
 <br/>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=franbonafina&show_icons=true&theme=radical&&include_all_commits=true&count_private=true&&show_owner=true" alt="franB" /></p>
-
-
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=franbonafina&show_icons=true&theme=radical&&include_all_commits=true&count_private=true&&show_owner=true" alt="franB" /></p>
 
 
 <br/>
-<a href="https://github-readme-stats.vercel.app/api?username=franbonafina&show_icons=true&theme=radical">
+<a href="https://github-readme-stats-sigma-five.vercel.app/api?username=franbonafina&show_icons=true&theme=radical">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franbonafina&show_icons=true&theme=chartreuse-dark" alt="Franbonafina's github stats"/>
 </a>
 
