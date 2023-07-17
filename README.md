@@ -7,5 +7,5 @@
 <br/>
 
 
-👋 Hello! I'm Fran, software developer. For business inquiries please reach out at my email address. Thank you.
+I'm Fran , software developer. For business inquiries please reach out at my email address. Thank you.
 
