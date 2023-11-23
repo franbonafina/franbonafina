@@ -7,7 +7,8 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions. My expertise lies in cloud app development and datawarehousing. I enjoy working on projects that challenge me and allow me to learn and grow.
+I'm a passionate software developer with a love for creating innovative solutions. My expertise lies in cloud app development and machine learning applications. Also have experince with data governance. 
+I enjoy working on projects that challenge me and allow me to learn and grow. 👀
 
 ## Let's Connect
 
