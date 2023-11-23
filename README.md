@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate computer scientist with a love for creating innovative solutions. But, my expertise lies in cloud-based applications development. Also have experince with data governance. 
+I'm a passionate computer scientist who love creating innovative solutions. But, my expertise lies in cloud-based applications development. Also have experince with data governance. 
 I enjoy working on projects that challenge me and allow me to learn and grow. 👀
 
 ## Let's Connect
