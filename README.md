@@ -13,5 +13,3 @@ I enjoy working on projects that challenge me and allow me to learn and grow. ðŸ
 ## Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via https://franbonafina.ar
-Looking forward to connecting with you!
-
