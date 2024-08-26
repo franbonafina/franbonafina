@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi 👋 
 [![Linkedin: franbonafina](https://img.shields.io/badge/-franbonafina?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randald-vb/)](https://www.linkedin.com/in/fbonafina/)
 [![GitHub franbonafina](https://img.shields.io/github/followers/franbonafina?label=follow&style=social)](https://github.com/franbonafina)
 [![GitHub Stars](https://img.shields.io/github/stars/franbonafina?style=social)](https://github.com/franbonafina)
