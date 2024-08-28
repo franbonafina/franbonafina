@@ -13,9 +13,7 @@ I began my studies in science at one of the most prestigious institutions in Sou
 
 Initially, I made great friends, but over time, I withdrew from the community. Influenced perhaps by Dostoevsky and Foucault, I chose to pursue knowledge independently, without conforming to traditional examination standards. This approach did not end well.
 
-After having a child, I started working in the rapidly expanding software industry. It was challenging for me to integrate into this field, and during that period, I read Marx and related authors. I found myself in a dilemma between supporting my family and pursuing my deeper intellectual interests.
-
-In recent years, I have identified myself as a Christian and a Peronist.
+After having a child, I started working in the rapidly expanding software industry. It was challenging for me to integrate into this field, and during that period, I read Marx and related authors. I found myself in a dilemma between supporting my family and pursuing my deeper intellectual interests. In recent years, I have identified myself as a Christian and a Peronist.
 
 Currently, I am a regular software developer with experience in creating medium-impact cloud-based data applications, adhering to best practices from the US and NATO industries. I am now studying Artificial Intelligence and delving deeper into its concepts and theories.
 
