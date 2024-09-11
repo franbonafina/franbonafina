@@ -6,4 +6,4 @@
 
 👉 Feel free to reach out to me via, https://franbonafina.github.io
 
-👉 If you're interesting know more abut me on, https://about.me/franbonafina
+👉 If you're interesting in know more abut me on, https://about.me/franbonafina
