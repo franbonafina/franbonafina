@@ -4,6 +4,5 @@
 [![GitHub Stars](https://img.shields.io/github/stars/franbonafina?style=social)](https://github.com/franbonafina)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franbonafina" alt="franB" /></p>
 
-👉 Feel free to reach out to me via, https://franbonafina.github.io
-
+👉 Feel free to reach me out via, https://franbonafina.github.io
 👉 If you're interesting in know more abut me on, https://about.me/franbonafina
