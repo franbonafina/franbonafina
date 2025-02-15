@@ -6,4 +6,4 @@
 
 👉 Feel free to reach me out via, https://twitter.com/franbonafina
 
-👉 If you're interested in know more about me, https://about.me/franbonafina
+👉 If you're interested in know more about me, https://linktree.com/franbonafina
